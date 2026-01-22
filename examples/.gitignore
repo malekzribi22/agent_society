@@ -1,0 +1,7 @@
+uav_roundabouts/
+uav_env/
+yolov8n.pt
+*.npz
+trajectories/
+.github/
+.github/

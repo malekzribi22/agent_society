@@ -1,0 +1,61 @@
+task_id,dataset,question_id,task_type,agent_id,agent_role,question,ground_truth,agent_answer,numeric_reward,process_reward,total_reward,timestamp
+1,tasksource/strategy-qa,,strategyqa_reasoning,6,reasoning,qid,,"Pretend reasoning for: Task Type: strategyqa_reasoning
+Question: qid
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4147224
+2,tasksource/strategy-qa,,strategyqa_reasoning,6,reasoning,question,,"Pretend reasoning for: Task Type: strategyqa_reasoning
+Question: question
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4147568
+3,asdiv_math,,asdiv_math,2,math,source_question,,"Pretend reasoning for: Task Type: asdiv_math
+Question: source_question
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4148512
+4,asdiv_math,,asdiv_math,2,math,grade,,"Pretend reasoning for: Task Type: asdiv_math
+Question: grade
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.414875
+5,tasksource/strategy-qa,,strategyqa_reasoning,8,reasoning,decomposition,,"Pretend reasoning for: Task Type: strategyqa_reasoning
+Question: decomposition
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4148932
+6,tasksource/strategy-qa,,strategyqa_reasoning,8,reasoning,answer,,"Pretend reasoning for: Task Type: strategyqa_reasoning
+Question: answer
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4149077
+7,asdiv_math,,asdiv_math,4,math,result_unit,,"Pretend reasoning for: Task Type: asdiv_math
+Question: result_unit
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4149225
+8,asdiv_math,,asdiv_math,4,math,chain,,"Pretend reasoning for: Task Type: asdiv_math
+Question: chain
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4149363
+9,tasksource/strategy-qa,,strategyqa_reasoning,7,reasoning,term,,"Pretend reasoning for: Task Type: strategyqa_reasoning
+Question: term
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.414949
+10,asdiv_math,,asdiv_math,2,math,result,,"Pretend reasoning for: Task Type: asdiv_math
+Question: result
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4149632
+11,asdiv_math,,asdiv_math,4,math,result_float,,"Pretend reasoning for: Task Type: asdiv_math
+Question: result_float
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4149776
+12,tasksource/strategy-qa,,strategyqa_reasoning,7,reasoning,facts,,"Pretend reasoning for: Task Type: strategyqa_reasoning
+Question: facts
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4149914
+13,asdiv_math,,asdiv_math,2,math,id,,"Pretend reasoning for: Task Type: asdiv_math
+Question: id
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4150057
+14,asdiv_math,,asdiv_math,3,math,question,,"Pretend reasoning for: Task Type: asdiv_math
+Question: question
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4150183
+15,tasksource/strategy-qa,,strategyqa_reasoning,6,reasoning,description,,"Pretend reasoning for: Task Type: strategyqa_reasoning
+Question: description
+Provide reasoning then final answer.
+#### placeholder",0.0,0.0,0.0,1764224889.4150305
